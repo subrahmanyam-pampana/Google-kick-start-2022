@@ -1,5 +1,6 @@
 #author: subrahmanyam Pampana
 # problem statement https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000941ec5
+# both test set 1 and 2 passed
 def processTestCase(test_case):
     #read the kingdom name and convert it
     kingdom_name = str(input())
