@@ -1,5 +1,6 @@
 #author Subrahmanyam Pampana
 #problem statement https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000941e56
+#test set 1 is passed, test set 2 TLE
 def processCase(test_case):
     num_papers = int(input())
     num_citations = list(map(int,input().split()))
